@@ -1,0 +1,11 @@
+{
+  "idf.currentSetup": "/Users/robert/.espressif/v6.0/esp-idf",
+  "clangd.path": "/Users/robert/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/Users/robert/Downloads/esp32.uart.relay/build"
+  ],
+  "idf.port": "/dev/tty.usbmodem14601",
+  "idf.flashType": "UART"
+}
